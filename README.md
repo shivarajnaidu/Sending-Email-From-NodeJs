@@ -19,5 +19,7 @@ Instructions:
 
 
 > **Note :** If you want to send email from your gmail account.. You have to turn on less secure app access for your gmail account. 
-> Go here [https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps)
+> Go here [https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps).
+
+
 > See More At [opensourceinside.blogspot.com](https://opensourceinside.blogspot.com/2016/12/how-to-send-email-from-nodejs-to-gmail.html) 
