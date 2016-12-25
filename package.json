@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shivarajnaidu/node-email/issues"
   },
-  "homepage": "https://github.com/shivarajnaidu/node-email#readme"
+  "homepage": "https://github.com/shivarajnaidu/node-email#readme",
+  "dependencies": {
+    "nodemailer": "^2.7.0"
+  }
 }
