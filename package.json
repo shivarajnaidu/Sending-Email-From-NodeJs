@@ -1,5 +1,5 @@
 {
-  "name": "node-email",
+  "name": "sending-email-from-nodejs",
   "version": "1.0.0",
   "description": "send email from nodejs",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivarajnaidu/node-email.git"
+    "url": "git+https://github.com/shivarajnaidu/Sending-Email-From-NodeJs.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shivarajnaidu/node-email/issues"
+    "url": "https://github.com/shivarajnaidu/Sending-Email-From-NodeJs/issues"
   },
-  "homepage": "https://github.com/shivarajnaidu/node-email#readme",
+  "homepage": "https://github.com/shivarajnaidu/Sending-Email-From-NodeJs#readme",
   "dependencies": {
     "nodemailer": "^2.7.0"
   }

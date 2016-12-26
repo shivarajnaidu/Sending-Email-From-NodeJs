@@ -1,4 +1,4 @@
-# node-email
+# Sending-Email-From-NodeJs
 Send Email From NodeJs to Gmail (Example : Using NodeMailer )
 
 This code is Licensed under MIT license...
@@ -6,7 +6,7 @@ See LICENSE file...
 
 Instructions:
 
-**Step 1 :** Clone this repository `git clone https://github.com/shivarajnaidu/node-email.git`
+**Step 1 :** Clone this repository `git clone https://github.com/shivarajnaidu/Sending-Email-From-NodeJs.git`
 
 **Step 2 :** Now enter in to project directory `cd node-email`
 
